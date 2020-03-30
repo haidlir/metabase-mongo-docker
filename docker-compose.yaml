@@ -1,0 +1,50 @@
+version: "2.4"
+
+networks:
+  internal-metabase:
+
+services:
+
+  mongodb:
+    image: mongo
+    privileged: false
+    networks:
+      internal-metabase:
+        aliases:
+          - mongodb
+    ports:
+      - 27017:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGODB_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGODB_PASSWORD} 
+      MONGO_INITDB_DATABASE: ${MONGODB_NAME}
+    volumes:
+      - "${PWD}/volumes/mongodb/entrypoint:/docker-entrypoint-initdb.d"
+      - "${PWD}/volumes/mongodb/data/db:/data/db"
+      - "${PWD}/volumes/mongodb/data/configdb:/data/configdb"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+  metabase:
+    image: metabase/metabase
+    privileged: false
+    networks:
+      internal-metabase:
+        aliases:
+          - metabase
+    depends_on:
+      - mongodb
+    ports:
+      - 3000:3000
+    volumes:
+      - "${PWD}/volumes/metabase/data:/metabase-data"
+    environment:
+      - "MB_DB_FILE=/metabase-data/metabase.db"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"

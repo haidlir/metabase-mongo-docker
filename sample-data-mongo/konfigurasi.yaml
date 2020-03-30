@@ -1,0 +1,25 @@
+# Konfigurasi Keseluruhan
+global:
+    # Interval pengambilan data ke EMS
+    batch-interval: "10m"
+    # Interval antara data point
+    data-interval: "5m"
+    # Periode pengambilan data sejak saat ini
+    data-period: "48h"
+    # Tipe sensor yang diambil dari EMS
+    sensor-type:
+        - "ping"
+        - "input_rate"
+
+# Daftar Node ID yang diambil data-nya
+node-id:
+    - BB-123456:
+    - BB-987654:
+    - BB-564738:
+        # Khusus untuk Node ID ini, konfigurasi tidak mengikuti konfigurasi global
+        batch-interval: "30m"
+        data-interval: "0m"
+        data-period: "96h"
+        sensor-type:
+            - "uptime"
+    - BB-321098:

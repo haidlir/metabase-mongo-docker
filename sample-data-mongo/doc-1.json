@@ -1,0 +1,1739 @@
+{
+    "node-id": "BB-123456",
+    "sensor-type": "input_rate",
+    "sensor-index": 3612,
+    "data": {
+        "prtg-version": "19.1.48.2929",
+        "treesize": 288,
+        "histdata": [
+            {
+                "datetime": "3/7/2020 12:00:00 AM - 12:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1821223.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:05:00 AM - 12:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1826463.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:10:00 AM - 12:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1844217.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:15:00 AM - 12:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1837374.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:20:00 AM - 12:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832858.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:25:00 AM - 12:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831471.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:30:00 AM - 12:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829869.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:35:00 AM - 12:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1827789.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:40:00 AM - 12:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834708.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:45:00 AM - 12:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845083.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:50:00 AM - 12:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1847286.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:55:00 AM - 1:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1847569.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:00:00 AM - 1:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1839118.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:05:00 AM - 1:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1849500.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:10:00 AM - 1:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834951.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:15:00 AM - 1:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1848355.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:20:00 AM - 1:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1839410.2500,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:25:00 AM - 1:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1841194.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:30:00 AM - 1:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1825529.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:35:00 AM - 1:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838433.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:40:00 AM - 1:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1827546.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:45:00 AM - 1:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1836334.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:50:00 AM - 1:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830780.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:55:00 AM - 2:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829913.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:00:00 AM - 2:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838706.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:05:00 AM - 2:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833106.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:10:00 AM - 2:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829355.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:15:00 AM - 2:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1824844.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:20:00 AM - 2:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1826205.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:25:00 AM - 2:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1836317.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:30:00 AM - 2:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1821966.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:35:00 AM - 2:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1823385.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:40:00 AM - 2:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1855300.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:45:00 AM - 2:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833302.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:50:00 AM - 2:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829415.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:55:00 AM - 3:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1826535.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:00:00 AM - 3:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1839557.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:05:00 AM - 3:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1837118.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:10:00 AM - 3:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1837811.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:15:00 AM - 3:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830431.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:20:00 AM - 3:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830021.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:25:00 AM - 3:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832875.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:30:00 AM - 3:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1819781.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:35:00 AM - 3:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838245.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:40:00 AM - 3:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1835376.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:45:00 AM - 3:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1844259.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:50:00 AM - 3:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1852386.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:55:00 AM - 4:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1848406.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:00:00 AM - 4:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1822872.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:05:00 AM - 4:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1836345.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:10:00 AM - 4:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1816939.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:15:00 AM - 4:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1836846.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:20:00 AM - 4:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829468.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:25:00 AM - 4:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1823164.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:30:00 AM - 4:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833310.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:35:00 AM - 4:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831597.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:40:00 AM - 4:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829121.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:45:00 AM - 4:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1835165.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:50:00 AM - 4:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834681.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:55:00 AM - 5:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834846.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:00:00 AM - 5:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833816.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:05:00 AM - 5:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1817788.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:10:00 AM - 5:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1835676.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:15:00 AM - 5:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831576.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:20:00 AM - 5:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1821580.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:25:00 AM - 5:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834036.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:30:00 AM - 5:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833498.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:35:00 AM - 5:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1852488.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:40:00 AM - 5:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1835928.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:45:00 AM - 5:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845173.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:50:00 AM - 5:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838915.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:55:00 AM - 6:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1836292.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:00:00 AM - 6:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845918.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:05:00 AM - 6:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1828455.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:10:00 AM - 6:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1827553.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:15:00 AM - 6:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829961.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:20:00 AM - 6:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1826997.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:25:00 AM - 6:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831472.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:30:00 AM - 6:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829167.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:35:00 AM - 6:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1827645.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:40:00 AM - 6:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832126.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:45:00 AM - 6:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1823923.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:50:00 AM - 6:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1839111.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:55:00 AM - 7:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829096.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:00:00 AM - 7:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1844090.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:05:00 AM - 7:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1825006.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:10:00 AM - 7:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1826835.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:15:00 AM - 7:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1843380.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:20:00 AM - 7:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831836.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:25:00 AM - 7:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1822038.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:30:00 AM - 7:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1843282.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:35:00 AM - 7:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1844371.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:40:00 AM - 7:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1825057.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:45:00 AM - 7:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1827195.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:50:00 AM - 7:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1849206.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:55:00 AM - 8:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845899.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:00:00 AM - 8:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1842975.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:05:00 AM - 8:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1840466.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:10:00 AM - 8:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832069.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:15:00 AM - 8:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1821655.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:20:00 AM - 8:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1859415.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:25:00 AM - 8:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1848232.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:30:00 AM - 8:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830036.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:35:00 AM - 8:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830514.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:40:00 AM - 8:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1819798.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:45:00 AM - 8:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1837872.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:50:00 AM - 8:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1843684.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:55:00 AM - 9:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845905.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:00:00 AM - 9:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1840701.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:05:00 AM - 9:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834447.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:10:00 AM - 9:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1813341.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:15:00 AM - 9:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1823672.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:20:00 AM - 9:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834062.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:25:00 AM - 9:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838854.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:30:00 AM - 9:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833256.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:35:00 AM - 9:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829057.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:40:00 AM - 9:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832941.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:45:00 AM - 9:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838047.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:50:00 AM - 9:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1829721.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:55:00 AM - 10:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1848030.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:00:00 AM - 10:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1839275.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:05:00 AM - 10:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830420.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:10:00 AM - 10:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830313.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:15:00 AM - 10:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838649.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:20:00 AM - 10:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1811956.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:25:00 AM - 10:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1824563.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:30:00 AM - 10:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1842967.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:35:00 AM - 10:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1834367.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:40:00 AM - 10:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831485.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:45:00 AM - 10:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1845045.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:50:00 AM - 10:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1837125.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:55:00 AM - 11:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1824334.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:00:00 AM - 11:05:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1831251.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:05:00 AM - 11:10:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1830902.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:10:00 AM - 11:15:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1846128.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:15:00 AM - 11:20:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1849737.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:20:00 AM - 11:25:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1828878.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:25:00 AM - 11:30:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832839.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:30:00 AM - 11:35:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1840130.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:35:00 AM - 11:40:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1832034.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:40:00 AM - 11:45:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1828808.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:45:00 AM - 11:50:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1833745.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:50:00 AM - 11:55:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1838705.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:55:00 AM - 12:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832617.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:00:00 PM - 12:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843894.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:05:00 PM - 12:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830049.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:10:00 PM - 12:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1849407.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:15:00 PM - 12:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831667.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:20:00 PM - 12:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829578.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:25:00 PM - 12:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1840749.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:30:00 PM - 12:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829825.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:35:00 PM - 12:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1819888.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:40:00 PM - 12:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832776.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:45:00 PM - 12:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824699.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:50:00 PM - 12:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842436.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 12:55:00 PM - 1:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827810.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:00:00 PM - 1:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1821807.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:05:00 PM - 1:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1823932.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:10:00 PM - 1:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1841202.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:15:00 PM - 1:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836219.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:20:00 PM - 1:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833676.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:25:00 PM - 1:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842004.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:30:00 PM - 1:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1848437.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:35:00 PM - 1:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833314.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:40:00 PM - 1:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836335.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:45:00 PM - 1:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1826512.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:50:00 PM - 1:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1851363.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 1:55:00 PM - 2:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833113.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:00:00 PM - 2:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829765.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:05:00 PM - 2:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832001.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:10:00 PM - 2:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1825259.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:15:00 PM - 2:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842843.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:20:00 PM - 2:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1834854.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:25:00 PM - 2:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838351.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:30:00 PM - 2:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827911.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:35:00 PM - 2:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838466.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:40:00 PM - 2:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839102.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:45:00 PM - 2:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1825550.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:50:00 PM - 2:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1850183.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 2:55:00 PM - 3:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839338.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:00:00 PM - 3:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1846002.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:05:00 PM - 3:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830113.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:10:00 PM - 3:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830304.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:15:00 PM - 3:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829677.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:20:00 PM - 3:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837352.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:25:00 PM - 3:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1823113.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:30:00 PM - 3:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832271.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:35:00 PM - 3:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837253.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:40:00 PM - 3:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829761.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:45:00 PM - 3:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838844.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:50:00 PM - 3:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824760.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 3:55:00 PM - 4:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1847153.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:00:00 PM - 4:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1840930.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:05:00 PM - 4:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832760.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:10:00 PM - 4:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1846607.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:15:00 PM - 4:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843048.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:20:00 PM - 4:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1858922.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:25:00 PM - 4:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1819838.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:30:00 PM - 4:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830137.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:35:00 PM - 4:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830865.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:40:00 PM - 4:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831188.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:45:00 PM - 4:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1822677.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:50:00 PM - 4:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831970.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 4:55:00 PM - 5:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1845448.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:00:00 PM - 5:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843374.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:05:00 PM - 5:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837031.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:10:00 PM - 5:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1841255.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:15:00 PM - 5:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832233.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:20:00 PM - 5:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1814040.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:25:00 PM - 5:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830628.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:30:00 PM - 5:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1822098.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:35:00 PM - 5:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831801.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:40:00 PM - 5:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1822811.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:45:00 PM - 5:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824123.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:50:00 PM - 5:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1826218.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 5:55:00 PM - 6:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843254.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:00:00 PM - 6:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827740.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:05:00 PM - 6:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824274.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:10:00 PM - 6:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839928.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:15:00 PM - 6:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838912.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:20:00 PM - 6:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833692.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:25:00 PM - 6:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838046.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:30:00 PM - 6:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827106.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:35:00 PM - 6:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1835238.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:40:00 PM - 6:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831940.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:45:00 PM - 6:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1848610.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:50:00 PM - 6:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1828104.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 6:55:00 PM - 7:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1845050.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:00:00 PM - 7:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1823507.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:05:00 PM - 7:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842545.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:10:00 PM - 7:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836844.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:15:00 PM - 7:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1825624.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:20:00 PM - 7:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833942.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:25:00 PM - 7:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836273.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:30:00 PM - 7:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1853970.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:35:00 PM - 7:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1820353.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:40:00 PM - 7:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837156.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:45:00 PM - 7:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833537.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:50:00 PM - 7:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1821480.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 7:55:00 PM - 8:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1841346.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:00:00 PM - 8:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832994.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:05:00 PM - 8:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1826223.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:10:00 PM - 8:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1835960.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:15:00 PM - 8:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842404.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:20:00 PM - 8:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1833077.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:25:00 PM - 8:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1823127.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:30:00 PM - 8:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839081.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:35:00 PM - 8:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832096.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:40:00 PM - 8:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838570.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:45:00 PM - 8:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1846856.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:50:00 PM - 8:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1832105.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 8:55:00 PM - 9:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838608.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:00:00 PM - 9:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1831346.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:05:00 PM - 9:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1815180.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:10:00 PM - 9:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1829842.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:15:00 PM - 9:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1840653.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:20:00 PM - 9:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824022.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:25:00 PM - 9:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824585.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:30:00 PM - 9:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1834712.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:35:00 PM - 9:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1841244.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:40:00 PM - 9:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1840060.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:45:00 PM - 9:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1847136.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:50:00 PM - 9:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839506.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 9:55:00 PM - 10:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837078.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:00:00 PM - 10:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1847906.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:05:00 PM - 10:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1847781.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:10:00 PM - 10:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836741.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:15:00 PM - 10:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839558.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:20:00 PM - 10:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830520.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:25:00 PM - 10:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1846263.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:30:00 PM - 10:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843419.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:35:00 PM - 10:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1821233.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:40:00 PM - 10:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1830505.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:45:00 PM - 10:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1836726.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:50:00 PM - 10:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1805801.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 10:55:00 PM - 11:00:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1825130.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:00:00 PM - 11:05:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1824106.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:05:00 PM - 11:10:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1837703.4000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:10:00 PM - 11:15:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1828915.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:15:00 PM - 11:20:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827310.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:20:00 PM - 11:25:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838578.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:25:00 PM - 11:30:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1843338.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:30:00 PM - 11:35:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1810411.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:35:00 PM - 11:40:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1838081.6000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:40:00 PM - 11:45:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1839553.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:45:00 PM - 11:50:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1827853.8000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:50:00 PM - 11:55:00 PM",
+                "ntc bbfoip in mon bbf input bit rate": 1842085.2000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            },
+            {
+                "datetime": "3/7/2020 11:55:00 PM - 12:00:00 AM",
+                "ntc bbfoip in mon bbf input bit rate": 1807925.0000,
+                "Downtime": 0.0000,
+                "coverage": "100 %"
+            }
+        ]
+    }
+}
